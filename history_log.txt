@@ -102,3 +102,4 @@ Initialized repository with basic structure
 Added boilerplate HTML to index.html
 Implemented CSS reset in style.css
 Added JavaScript file for initial functionality
+Designed the navigation bar layout
