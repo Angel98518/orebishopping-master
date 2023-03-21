@@ -106,3 +106,4 @@ Designed the navigation bar layout
 Created product grid layout in HTML
 Styled navigation bar with CSS
 Added hover effects for navigation links
+Implemented JavaScript for dynamic product display
