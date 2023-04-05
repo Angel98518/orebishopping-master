@@ -1,3 +1,4 @@
 Initial commit with project structure
 Added boilerplate HTML to index.html
 Implemented basic CSS styles in style.css
+Added JavaScript functionality in app.js
