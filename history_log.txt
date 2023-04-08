@@ -108,3 +108,4 @@ Styled navigation bar with CSS
 Added hover effects for navigation links
 Implemented JavaScript for dynamic product display
 Added logo to assets folder
+Updated README with project overview
