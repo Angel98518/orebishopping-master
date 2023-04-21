@@ -110,3 +110,4 @@ Implemented JavaScript for dynamic product display
 Added logo to assets folder
 Updated README with project overview
 Refactored CSS for responsive design
+Added mobile-friendly styles for product grid
