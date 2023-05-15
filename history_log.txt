@@ -112,3 +112,4 @@ Updated README with project overview
 Refactored CSS for responsive design
 Added mobile-friendly styles for product grid
 Integrated Google Fonts for typography
+Implemented dark mode functionality
