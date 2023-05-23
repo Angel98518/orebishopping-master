@@ -114,3 +114,4 @@ Added mobile-friendly styles for product grid
 Integrated Google Fonts for typography
 Implemented dark mode functionality
 Improved JavaScript for faster loading
+Fixed alignment issues in product cards
