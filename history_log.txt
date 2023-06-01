@@ -115,3 +115,4 @@ Integrated Google Fonts for typography
 Implemented dark mode functionality
 Improved JavaScript for faster loading
 Fixed alignment issues in product cards
+Enhanced accessibility with ARIA labels
