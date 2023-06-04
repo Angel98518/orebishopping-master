@@ -116,3 +116,4 @@ Implemented dark mode functionality
 Improved JavaScript for faster loading
 Fixed alignment issues in product cards
 Enhanced accessibility with ARIA labels
+Added filtering functionality for products
