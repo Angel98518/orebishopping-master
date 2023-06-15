@@ -3,3 +3,4 @@ Added boilerplate HTML to index.html
 Implemented basic CSS styles in style.css
 Added JavaScript functionality in app.js
 Updated index.html with meta tags
+Added logo to assets and updated references
