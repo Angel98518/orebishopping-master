@@ -119,3 +119,4 @@ Enhanced accessibility with ARIA labels
 Added filtering functionality for products
 Updated styles for better readability
 Added breadcrumb navigation to product pages
+Optimized images for faster loading
