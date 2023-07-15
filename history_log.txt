@@ -121,3 +121,4 @@ Updated styles for better readability
 Added breadcrumb navigation to product pages
 Optimized images for faster loading
 Fixed CSS bugs on mobile devices
+Implemented sticky header for navigation
