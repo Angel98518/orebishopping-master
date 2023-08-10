@@ -5,3 +5,4 @@ Added JavaScript functionality in app.js
 Updated index.html with meta tags
 Added logo to assets and updated references
 Fixed CSS layout issues
+Improved JavaScript for better performance
