@@ -125,3 +125,4 @@ Implemented sticky header for navigation
 Enhanced checkout form with validation
 Added animations for button hover effects
 Improved site performance with script defer
+Updated README with contribution guidelines
