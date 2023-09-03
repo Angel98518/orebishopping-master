@@ -127,3 +127,4 @@ Added animations for button hover effects
 Improved site performance with script defer
 Updated README with contribution guidelines
 Refactored JavaScript code for modularity
+Added user reviews to product details page
