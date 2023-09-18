@@ -129,3 +129,4 @@ Updated README with contribution guidelines
 Refactored JavaScript code for modularity
 Added user reviews to product details page
 Fixed bugs in wishlist functionality
+Enhanced security with HTTPS support
