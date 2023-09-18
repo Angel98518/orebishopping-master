@@ -6,3 +6,4 @@ Updated index.html with meta tags
 Added logo to assets and updated references
 Fixed CSS layout issues
 Improved JavaScript for better performance
+Updated README with project details
