@@ -132,3 +132,4 @@ Fixed bugs in wishlist functionality
 Enhanced security with HTTPS support
 Improved accessibility for forms
 Integrated product search API
+Added sorting functionality for products
