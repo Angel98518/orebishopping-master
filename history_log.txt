@@ -133,3 +133,4 @@ Enhanced security with HTTPS support
 Improved accessibility for forms
 Integrated product search API
 Added sorting functionality for products
+Updated CSS for customer testimonials
