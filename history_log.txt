@@ -135,3 +135,4 @@ Integrated product search API
 Added sorting functionality for products
 Updated CSS for customer testimonials
 Enhanced responsiveness for large screens
+Added newsletter subscription form
