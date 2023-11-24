@@ -138,3 +138,4 @@ Enhanced responsiveness for large screens
 Added newsletter subscription form
 Created a thank-you page for orders
 Fixed minor bugs in dark mode styles
+Improved product grid with flexbox
