@@ -140,3 +140,4 @@ Created a thank-you page for orders
 Fixed minor bugs in dark mode styles
 Improved product grid with flexbox
 Updated footer with social media links
+Created promotional banners for holiday sales
