@@ -146,3 +146,4 @@ Added meta tags for better SEO
 Enhanced site navigation with breadcrumbs
 Updated CSS variables for theme customization
 Fixed JavaScript bugs in product filtering
+Added support for multiple languages
