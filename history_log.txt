@@ -162,3 +162,4 @@ Updated site analytics with custom dashboard
 Enhanced accessibility with keyboard navigation
 Improved animations for smoother transitions
 Updated README with latest feature descriptions
+Fixed bugs in wishlist and sorting functionality
