@@ -165,3 +165,4 @@ Updated README with latest feature descriptions
 Fixed bugs in wishlist and sorting functionality
 Refactored CSS for better maintainability
 Added promotional content for sales
+Updated responsive styles for tablets
