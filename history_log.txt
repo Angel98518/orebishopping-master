@@ -167,3 +167,4 @@ Refactored CSS for better maintainability
 Added promotional content for sales
 Updated responsive styles for tablets
 Improved site loading speed by compressing assets
+Enhanced user reviews with avatars
