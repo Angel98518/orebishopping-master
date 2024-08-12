@@ -170,3 +170,4 @@ Improved site loading speed by compressing assets
 Enhanced user reviews with avatars
 Fixed minor issues in checkout process
 Added custom error pages
+Improved hover animations for product categories
