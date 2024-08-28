@@ -172,3 +172,4 @@ Fixed minor issues in checkout process
 Added custom error pages
 Improved hover animations for product categories
 Enhanced breadcrumb navigation with icons
+Refactored JavaScript functions for better reuse
