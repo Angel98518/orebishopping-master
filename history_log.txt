@@ -174,3 +174,4 @@ Improved hover animations for product categories
 Enhanced breadcrumb navigation with icons
 Refactored JavaScript functions for better reuse
 Improved SEO with structured data in HTML
+Added support for RTL languages
