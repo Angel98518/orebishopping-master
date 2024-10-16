@@ -178,3 +178,4 @@ Added support for RTL languages
 Fixed bugs in dark mode toggle
 Enhanced customer testimonials section
 Updated site color scheme for accessibility
+Added loading animations for AJAX calls
