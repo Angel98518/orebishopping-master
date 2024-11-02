@@ -180,3 +180,4 @@ Enhanced customer testimonials section
 Updated site color scheme for accessibility
 Added loading animations for AJAX calls
 Improved checkout form error messages
+Optimized assets for print styles
