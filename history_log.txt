@@ -182,3 +182,4 @@ Added loading animations for AJAX calls
 Improved checkout form error messages
 Optimized assets for print styles
 Updated layout for FAQ page
+Enhanced site security with CSP headers
