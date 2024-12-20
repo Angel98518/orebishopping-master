@@ -187,3 +187,4 @@ Refactored project structure for scalability
 Improved product filtering logic
 Added visual indicators for out-of-stock products
 Enhanced animations for page transitions
+Updated project with latest dependencies
